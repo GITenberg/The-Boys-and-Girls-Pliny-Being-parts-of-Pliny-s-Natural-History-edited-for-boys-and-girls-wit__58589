@@ -1,0 +1,30 @@
+_repo: The-Boys-and-Girls-Pliny-Being-parts-of-Pliny-s-Natural-History-edited-for-boys-and-girls-wit__58589
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: White, John S. (John Stuart)
+    alias: White, John Stuart
+    birthdate: 1847
+    deathdate: 1922
+    gutenberg_agent_id: '932'
+    url: http://www.gutenberg.org/2009/agents/932
+  - agent_name: Pliny, The Elder
+    gutenberg_agent_id: '50041'
+    url: http://www.gutenberg.org/2009/agents/50041
+description: ''
+gutenberg_issued: '2019-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58589'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Boys'' and Girls'' Pliny
+
+  Being parts of Pliny''s "Natural History" edited for boys
+
+  and girls, with an Introduction'
+url: http://www.gutenberg.org/ebooks/58589

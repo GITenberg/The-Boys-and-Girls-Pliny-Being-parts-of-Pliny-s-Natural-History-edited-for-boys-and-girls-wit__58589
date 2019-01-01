@@ -1,5 +1,8 @@
 _repo: The-Boys-and-Girls-Pliny-Being-parts-of-Pliny-s-Natural-History-edited-for-boys-and-girls-wit__58589
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58589-h/images/cover.jpg
 creator:
   authors:
   - agent_name: White, John S. (John Stuart)
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '50041'
     url: http://www.gutenberg.org/2009/agents/50041
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58589#The-Boys-and-Girls-Pliny-Being-parts-of-Pliny-s-Natural-History-edited-for-boys-and-girls-wit_
 gutenberg_issued: '2019-01-01'
 gutenberg_type: Text
 identifiers:
